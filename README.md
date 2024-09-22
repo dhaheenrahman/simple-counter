@@ -11,3 +11,6 @@ Implementation details:-
   -  The Application is developed in Android Studio using Kotlin.
   -  The layouts are designed using XML.
   -  Used Firebase Real Time Database for the storage and retrieval of saved values.
+
+How to install:-
+  - Download and install the "counter.apk" file in the apk folder.
